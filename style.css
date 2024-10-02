@@ -5,6 +5,7 @@ body{
 h1{
     font-style: italic;
 }
-p{
+.paragrafoprincipal{
+    font-size:25%;
     color: rgb(140, 224, 252);
 }
